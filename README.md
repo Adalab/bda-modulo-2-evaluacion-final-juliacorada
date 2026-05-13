@@ -27,7 +27,7 @@ Este repositorio recoge los **24 ejercicios** de la evaluación final del Módul
 
 1. Clona este repositorio:
    ```bash
-   git clone <url-del-repo>
+   git clone <(https://github.com/Adalab/bda-modulo-2-evaluacion-final-juliacorada.git)>
    ```
 
 2. Abre el archivo `.sql` en tu cliente
