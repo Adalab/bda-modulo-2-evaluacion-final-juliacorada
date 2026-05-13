@@ -20,7 +20,7 @@ Este repositorio recoge los **24 ejercicios** de la evaluación final del Módul
 
 ### Requisitos previos
 - **MySQL 8+** instalado en tu máquina
-- La base de datos **Sakila** cargada _(si no la tienes, [descárgala aquí](https://dev.mysql.com/doc/index-other.html))_
+- La base de datos **Sakila** cargada
 - Un cliente SQL: MySQL Workbench, DBeaver, TablePlus... el que prefieras
 
 ### Pasos
